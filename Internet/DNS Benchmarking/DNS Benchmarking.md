@@ -6,7 +6,7 @@
 
 
 ## [DNSBench](https://www.grc.com/dns/benchmark.htm)
-* Gibson Research Corporation
+  * [Gibson Research Corporation](https://www.grc.com/)
 
 GRC's DNS Benchmark performs a detailed analysis and comparison of the operational performance and reliability of any set of up to 200 DNS nameservers (sometimes also called resolvers) at once. When the Benchmark is started in its default configuration, it identifies all DNS nameservers the user's system is currently configured to use and adds them to its built-in list of publicly available “alternative” nameservers. Each DNS nameserver in the benchmark list is carefully “characterized” to determine its suitability — to you — for your use as a DNS resolver. This characterization includes testing each nameserver for its “redirection” behavior: whether it returns an error for a bad domain request, or redirects a user's web browser to a commercial marketing-oriented page. While such behavior may be acceptable to some users, others may find this objectionable.
 
@@ -18,7 +18,7 @@ Results are continuously displayed and updated while the benchmark is underway, 
 Once the benchmark finishes, the results are heuristically and statistically analyzed to present a comprehensive yet simplified and understandable English-language summary of all important findings and conclusions. Based upon these results, users may choose to change the usage order of their system's own resolvers, or, if alternative public nameservers offer superior performance or features compared with the nameservers currently being used, to switch to one or more alternative nameservers.
 
 ## [namebench](https://code.google.com/archive/p/namebench/)
-* Google
+* [Google](https://code.google.com/)
 
 Are you a power-user with 5 minutes to spare? Do you want a faster internet experience?  
 
